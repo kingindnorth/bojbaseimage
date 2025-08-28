@@ -1,0 +1,27 @@
+{
+  "app_title": "Pru-Assist 演示（GetX）",
+  "cta_talk_to_expert": "与我们的专家沟通",
+  "welcome_headline": "欢迎使用 Pru-Assist",
+  "tab_insurance": "保险计划",
+  "tab_claims": "理赔",
+  "tab_network": "医疗网络",
+  "tab_wellness": "健康与保健",
+  "tab_knowledge": "知识中心",
+  "tab_about": "关于我们",
+  "tab_careers": "招聘",
+  "tab_contact": "联系与支持",
+  "chip_file_claim": "提交理赔",
+  "chip_track_claim": "追踪理赔",
+  "chip_claim_faq": "理赔常见问题",
+  "grid_view_manage": "查看并管理我的保单",
+  "grid_view_manage_sub": "查看与下载保单文件",
+  "grid_request_changes": "申请修改保单",
+  "grid_request_changes_sub": "查看与修改保单信息",
+  "grid_raise_track": "提交并追踪理赔",
+  "grid_raise_track_sub": "追踪您的理赔状态",
+  "grid_health_tools": "健康管理工具",
+  "grid_health_tools_sub": "健康奖励",
+  "snack_selected": "已选择"
+}
+
+

@@ -1,0 +1,53 @@
+{
+  "cta_talk_to_expert": "Talk to our expert",
+  "welcome_headline": "Welcome to Pru- Assist",
+
+  "tab_insurance": "Insurance Plans",
+  "tab_claims": "Claims",
+  "tab_network": "Healthcare Network",
+  "tab_wellness": "Health & Wellness",
+  "tab_knowledge": "Knowledge Hub",
+  "tab_about": "About Us",
+  "tab_careers": "Careers",
+  "tab_contact": "Contact & Support",
+
+  "chip_file_claim": "File a claim",
+  "chip_track_claim": "Track claim",
+  "chip_claim_faq": "Claim FAQs",
+
+  "grid_view_manage": "View & manage my policy",
+  "grid_view_manage_sub": "View & download policy documents",
+  "grid_request_changes": "Request changes in policy",
+  "grid_request_changes_sub": "View & modify policy details",
+  "grid_raise_track": "Raise & track claims",
+  "grid_raise_track_sub": "Track your claim status",
+  "grid_health_tools": "Health management tools",
+  "grid_health_tools_sub": "Wellness & rewards",
+
+  "snack_selected": "Selected",
+  "welcome_to": "Welcome to",
+  "field": {
+
+  },
+  "button": {
+
+  },
+  "dashboard_label": {
+
+    "pru_assist": "Pru- Assist",
+    "welcome_message": "Your health in your hands. What do you need support with today?",
+    "tab_policy_holder": "I’m a policy holder",
+    "tab_applying": "I’m still applying"
+  },
+  "app_title": {
+
+  },
+  "error_msg": {
+
+  },
+  "success_msg": {
+
+  }
+
+}
+
