@@ -24,13 +24,15 @@ RUN flutter pub get
 RUN flutter build web --release
 
 # make server startup script executable and start the web server
-FROM nginx:alpine
+# FROM nginx:alpine
 
-# Copy built web app to nginx html directory
-COPY --from=builder /app/build/web /usr/share/nginx/html
+# # Copy built web app to nginx html directory
+# COPY --from=builder /app/build/web /usr/share/nginx/html
 
-# Start nginx
-CMD ["nginx", "-g", "daemon off;"]
+# # Start nginx
+# CMD ["nginx", "-g", "daemon off;"]
+
+RUN cd build/web && python3 -m http.server 3009
 
 # # Expose port 5041 for the NGINX server
 # EXPOSE 5020
